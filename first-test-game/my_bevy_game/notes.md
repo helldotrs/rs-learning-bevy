@@ -5,3 +5,5 @@ Bevy asset loader
 Stageless
 
 bevy_ecs_ldtk
+
+Rapier - 2d physics lib
