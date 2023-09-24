@@ -7,3 +7,7 @@ Stageless
 bevy_ecs_ldtk
 
 Rapier - 2d physics lib
+
+Starting a new 2d platformer with ECS, by chris biscardi:
+https://www.youtube.com/watch?v=gjeEYntkvoY
+
