@@ -12,3 +12,5 @@ Starting a new 2d platformer with ECS, by chris biscardi:
 https://www.youtube.com/watch?v=gjeEYntkvoY
 
 bevy cheat book
+
+https://kenney.nl/assets
